@@ -18,7 +18,3 @@ This app was created in response to a request from my dad when I was 16 years ol
 ## Contributing
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
-## License
-This project is licensed under the [LICENSE NAME] license. See the LICENSE file for more details.
-```
-
